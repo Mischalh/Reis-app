@@ -287,3 +287,9 @@ function App() {
 }
 
 export default App;
+
+// "Hoi, ik zie dat je in de code Engelse namen gebruikt, 
+maar op de website staat alles in het Nederlands. Misschien
+is het netter om overal een taal aan te houden, of in ieder geval 
+de teksten die de gebruiker ziet allemaal in het
+Nederlands te doen? GR Janine"
