@@ -207,6 +207,11 @@ function App() {
       <h1 className="main-title">De 50 populairste vakantielanden</h1>
       <p className="subtitle">Per continent gegroepeerd</p>
 
+//"De titel 'De 50 populairste vakantielanden' is heel duidelijk. 
+      Misschien kun je ook nog ergens vermelden waar deze data vandaan 
+      komt (welke API je gebruikt)? Dat maakt het voor de bezoeker wat 
+      betrouwbaarder.GR JANINE"
+      
       <div className="filter-bar">
         <label htmlFor="continent-select">Filter op continent:</label>
         <select
