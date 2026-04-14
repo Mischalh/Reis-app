@@ -234,7 +234,7 @@ function App() {
 //"Ik zie dat je een melding 'Laden...' toont terwijl de landen worden opgehaald. 
   Misschien is het leuk om daar iets visueelds van te maken, zoals een draaiend icoontje
   of een tekst als 'Vakantiebestemmingen zoeken...'? Dat ziet er net wat professioneler 
-  uit voor de gebruiker." GR JANINEE
+  uit voor de gebruiker." GR JANINE
       
       {!loading &&
         !error &&
